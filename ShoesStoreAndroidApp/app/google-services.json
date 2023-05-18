@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751810015893",
+    "project_id": "shoe-store-android-app",
+    "storage_bucket": "shoe-store-android-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751810015893:android:7d20a4bf2ffa3edfe4a19c",
+        "android_client_info": {
+          "package_name": "com.example.loginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751810015893-etaj18hlnjdgpjcmlg2t999kf35n5nkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5-J7h_SbBuapdNOdciVF55SINuiVomIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751810015893-etaj18hlnjdgpjcmlg2t999kf35n5nkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
